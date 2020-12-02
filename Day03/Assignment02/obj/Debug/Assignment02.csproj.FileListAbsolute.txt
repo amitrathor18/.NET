@@ -1,0 +1,7 @@
+E:\CDAC\.NET\git_upload\.NET\Day03\Assignment02\bin\Debug\Assignment02.exe.config
+E:\CDAC\.NET\git_upload\.NET\Day03\Assignment02\bin\Debug\Assignment02.exe
+E:\CDAC\.NET\git_upload\.NET\Day03\Assignment02\bin\Debug\Assignment02.pdb
+E:\CDAC\.NET\git_upload\.NET\Day03\Assignment02\obj\Debug\Assignment02.csprojAssemblyReference.cache
+E:\CDAC\.NET\git_upload\.NET\Day03\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+E:\CDAC\.NET\git_upload\.NET\Day03\Assignment02\obj\Debug\Assignment02.exe
+E:\CDAC\.NET\git_upload\.NET\Day03\Assignment02\obj\Debug\Assignment02.pdb
