@@ -1,24 +1,23 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment02
+namespace Assignment03
 {
     class Program
     {
         public static void Main()
         {
 
-            Console.WriteLine("============Employee=================");
+            Console.WriteLine("===============Employee=================");
             Employee a1 = new Manager("Employee", "ABC", 10000, 01);
             a1.DisplayData();
             Console.ReadLine();
 
 
-            Console.WriteLine("============Manager=================");
+            Console.WriteLine("===============Manager=================");
             Employee a2 = new Manager("Manager", "Amit", 30000, 11);
             a2.DisplayData();
             Console.ReadLine();
@@ -29,7 +28,7 @@ namespace Assignment02
             Console.ReadLine();
 
 
-            Console.WriteLine("============CEO=================");
+            Console.WriteLine("=================CEO=================");
             CEO a4 = new CEO("Rahul", 80000, 13);
             a4.DisplayData();
 
@@ -105,9 +104,9 @@ namespace Assignment02
                 return deptNo;
             }
         }
-            #endregion
+        #endregion
 
-       #region Constructor
+        #region Constructor
         public Employee(string name = "Rahul", decimal basic = 2500, short deptNo = 10)
         {
             this.EmpNo = ++empNo;
